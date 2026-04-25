@@ -24,7 +24,6 @@ _Будет пополняться..._
 ## Хочу исправить или предложить что-то
 Пишите **[сюда, в гитхаб](https://github.com/raspberry3045/Russian-x-Create-Aero/issues)**
 
-![Banner](https://cdn.modrinth.com/data/QdxB8KT5/images/8d67cf85a612b921ea12cee15a480873e2a8750b.png)
 # English
 ## What is this?
 An **unofficial** resource pack that adds a Russian translation for the **[Create Aeronautics](https://modrinth.com/mod/create-aeronautics)** mod (and some others). Everything available in these mods has been translated.
