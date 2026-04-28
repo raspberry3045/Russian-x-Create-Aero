@@ -6,9 +6,14 @@
 <details>
 <summary>Полный список переведеных модов</summary>
 
-[Sable](https://modrinth.com/mod/sable)
-
-[Create Aeronautics: Dyeable Components](https://modrinth.com/mod/aeronautics-dyeable-components)
+- [Antique Transport](https://www.curseforge.com/minecraft/mc-mods/antique-transport)
+- [Copycat Sails and Compat](https://www.curseforge.com/minecraft/mc-mods/copycat-sails-and-compat)
+- [Create Aeronautics: Dyeable Components](https://modrinth.com/mod/aeronautics-dyeable-components)
+- [Create Sensors](https://www.curseforge.com/minecraft/mc-mods/create-sensors)
+- [Create Tracks](https://www.curseforge.com/minecraft/mc-mods/create-tracks)
+- [Create: Aeroworks](https://modrinth.com/mod/create-aeroworks-modrinth)
+- [Rolled Homongenous: Forked](https://www.curseforge.com/minecraft/mc-mods/rolled-homongenous-forked)
+- [Sable](https://modrinth.com/mod/sable)
 
 _Будет пополняться..._
 </details>
@@ -28,9 +33,14 @@ _Будет пополняться..._
 <details>
 <summary>Full list of translated mods</summary>
 
-[Sable](https://modrinth.com/mod/sable)
-
-[Create Aeronautics: Dyeable Components](https://modrinth.com/mod/aeronautics-dyeable-components)
+- [Antique Transport](https://www.curseforge.com/minecraft/mc-mods/antique-transport)
+- [Copycat Sails and Compat](https://www.curseforge.com/minecraft/mc-mods/copycat-sails-and-compat)
+- [Create Aeronautics: Dyeable Components](https://modrinth.com/mod/aeronautics-dyeable-components)
+- [Create Sensors](https://www.curseforge.com/minecraft/mc-mods/create-sensors)
+- [Create Tracks](https://www.curseforge.com/minecraft/mc-mods/create-tracks)
+- [Create: Aeroworks](https://modrinth.com/mod/create-aeroworks-modrinth)
+- [Rolled Homongenous: Forked](https://www.curseforge.com/minecraft/mc-mods/rolled-homongenous-forked)
+- [Sable](https://modrinth.com/mod/sable)
 
 _More to come..._
 </details>
